@@ -9,7 +9,7 @@ The Github API code comes from the BonnyCI project: https://github.com/BonnyCI/s
 
 ## Roadmap
 
-Project status: https://github.ibm.com/Augustina-Ragwitz/github-hubbub/projects/1
+Project status: https://github.com/BonnyCI/mateys-ahoy/projects/1
 
 Initial exploratory analysis has been done resources from the BonnyCI/ci-plunder project. The analysis will start by determining metrics for measuring contributor participation and then move towards building more complete profiles for these contributors beyond their Github profiles. The final deliverable will be a hosted web application that provides visual data plots of interest based on regular updates of the contributor data archive.
 
