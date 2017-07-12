@@ -1,0 +1,50 @@
+Worse Than Spam: Issues In Sampling Software Developers
+http://st.uni-trier.de/~baltes/papers/esem16-sampling.pdf
+
+•	Drawing a random sample is rarely possible
+•	Public media is the best way to get mass information
+•	Sampling could be unethical due to the fact that Github users put down their email without the intention of having other users know this information
+•	Only a few companies provide the names of their Software Developers  use convenience sampling
+•	Detailed information about Software Developers is needed, but not available  random sampling is preferred, but convenience sampling must be used in most cases  biased sample
+•	Sampling for use of sketches/diagrams in software engineering practice with 394 participants
+o	Network & motivate
+o	2 social networks and online communities
+♣	some members were critical about using these channels and this was most intensive recruitment
+o	German news site article about survey to encourage participants (most efficient)
+o	advertise on twitter
+•	Directly contacting companies  no gatekeeper
+•	Github GHTorrent provides username, real name, company, location, and email (good data quality)
+•	“Issue: Relying on convenience samples or samples drawn from single online platforms may lead to biased results.“
+	
+Perceptions of Diversity on Github: A User Survey
+https://www.researchgate.net/profile/Alexander_Serebrenik/publication/308850791_A_Data_Set_for_Social_Diversity_Studies_of_GitHub_Teams/links/5852a0ad08ae7d33e01aa9da/A-Data-Set-for-Social-Diversity-Studies-of-GitHub-Teams.pdf
+
+•	how perceptions of users influence work
+•	Found that both gender and tenure diversity are significant, positive predictors of productivity
+•	Survey on teamwork with diversity, 816 responses
+•	75% male, 25% female
+•	60% web developer, 21% manager/team leader, 21% desktop developer
+•	Males are overrepresented as IT staff/system administrators or developers, females as academics and software developers
+•	Males typically had more years of IT/programming experience
+•	Females only account for 9% of Github
+•	Communication
+o	73% on Github
+o	63% email
+o	54% instant messaging
+o	52% in person
+•	Teamwork
+o	“open source developers come and go much [more] frequently than in a company”
+o	fluid teams 53%, commercial teams 19%,
+
+Visualizing Collaboration and Influence in the Open-Source Software Community
+https://pdfs.semanticscholar.org/dd7a/f74e7abcf1f8943040adc8eea8cc9eae011d.pdf
+
+•	How demographics of geographic locations and backgrounds affect relationships on Github, successive commits or contributions to projects
+•	Geo-scatter maps were created with data collection from Github (including a “complete social graph of 500,000 follow links as well as over 1,000,000 commits and 50,000 users.”)
+•	Small multiples are used to compare many different parts of the graphs which can be filtered
+•	Further analysis goes beyond classifying a single location as ‘San Francisco’. For example, the graph will include more specific locations like Oakland and San Jose.
+•	Finding: In Paris, developers seem to mostly follow and not followed with the exceptions of Sydney, Berlin, and Tokyo.
+•	Findings are mostly assumptions about patterns found in data visualizations
+
+Question: Based on how popular Github is on the global scale, where should IBM and our open source projects be more involved?
+
